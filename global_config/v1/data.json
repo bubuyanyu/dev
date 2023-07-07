@@ -1,1 +1,9 @@
-{"version": 1686721924, "newUserTrialCount": 3,"services":["a","b","c"]}
+{
+    "version": 1688694947,
+    "services": [
+        "d",
+        "b",
+        "c",
+        "a"
+    ]
+}
